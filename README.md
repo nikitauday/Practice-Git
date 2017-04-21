@@ -18,9 +18,9 @@ In this exercise you will be creating a file with your username as an introducti
 
 * Firstly, you should fork this repository to your account. Press the "Fork" button on top right of the page and select your account to fork this repository.
 * Next, goto your profile and find the fork.
-* Go into the users folder and create a new folder named "yourusername"
-* Go into the that folder and create a text file named "yourusername.txt"
-* Edit it to set the contents as "Hi it's me @yourusername"
+* Click the clone or download green icon on your fork.
+* Go to your terminal, where git is installed and paste `git clone https://github.com/<your_username>/Practice-Git`
+* go into Practice-Git and go into `submit-a-pull-request` folder and make a folder with your own name.
 <br><br>
 ## Step 3
 Next would be the turn to master the command line in Linux, because most of the time you would be accessing git and other programs through it.
