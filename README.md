@@ -20,7 +20,7 @@ In this exercise you will be creating a file with your username as an introducti
 * Next, goto your profile and find the fork.
 * Click the clone or download green icon on your fork.
 * Go to your terminal, where git is installed and paste `git clone https://github.com/<your_username>/Practice-Git`
-* go into Practice-Git and go into `submit-a-pull-request` folder and make a folder with your own name.
+* go into Practice-Git and go into `submit-a-pull-request` folder and make a folder with your own github username and inside make a file called `helloworld.md` and inside it add something about yourself and commit the file. More detailed instructions are given below
 <br><br>
 ## Step 3
 Next would be the turn to master the command line in Linux, because most of the time you would be accessing git and other programs through it.
