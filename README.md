@@ -45,15 +45,17 @@ Submitting a pull request is the process where you send the changes you've made 
 ### Step 1: Firstly, you should fork this repository to your account. Press the "Fork" button on top right of the page and select your account to fork this repository.
 <br>
 <i>Forks are copies of a main repository which are available for individual users to edit according to their preferences.</i>
-<img src="http://i.imgur.com/Ayvkflu.png"/></img>
+<img src="http://i.imgur.com/Ayvkflu.png"/>
 <br>
-### Step 2: Next, goto your profile and find the fork or the copy of the main repository.
-Click the clone or download green icon on your fork.
 <br>
+Step 2: Next, goto your profile and find the fork or the copy of the main repository and click the clone or download green icon on your fork.
+<br>
+</br>
 <img src="http://i.imgur.com/ywyNYpp.png"></img>
-* Go to your terminal, where git is installed and paste `git clone https://github.com/<your_username>/Practice-Git`
+Step 3: Go to your terminal, where git is installed and paste `git clone https://github.com/<your_username>/Practice-Git`
+<br>
 <img src="http://i.imgur.com/iIUdqEf.png"></img>
-* go into Practice-Git and go into `submit-a-pull-request` folder and make a folder with your own github username and inside make a file called `helloworld.md` and inside it add something about yourself and commit the file. More detailed instructions are given below
+go into Practice-Git and go into `submit-a-pull-request` folder and make a folder with your own github username and inside make a file called `helloworld.md` and inside it add something about yourself and commit the file. More detailed instructions are given below
 <br><br>
 ## Step 3
 Next would be the turn to master the command line in Linux, because most of the time you would be accessing git and other programs through it.
