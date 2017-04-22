@@ -52,6 +52,8 @@ Submitting a pull request is the process where you send the changes you've made 
 <br>
 ### Step 2: Next, goto your profile and find the fork or the copy of the main repository and click the clone or download green icon on your fork.
 <br>
+<img src="http://image.prntscr.com/image/8c27469b5f254f609307d4254d2be5bc.png">
+<br>
 </br>
 <img src="http://i.imgur.com/ywyNYpp.png"></img>
 ### Step 3: Go to your terminal(You can search up how to access terminal in your system online.), where git is installed and paste `git clone https://github.com/<your_username>/Practice-Git`
@@ -59,6 +61,7 @@ Submitting a pull request is the process where you send the changes you've made 
 <br>
 <img src="http://i.imgur.com/iIUdqEf.png"></img>
 ### Go into Practice-Git and go into `submit-a-pull-request` folder and make a folder with your own github username and inside make a file called `helloworld.md` and inside it add something about yourself and commit the file. More detailed instructions are given below
+
 <br><br>
 ## Step 3
 This step includes basic knowledge of the terminal. If you're already familiar with the terminal you can read through. If you're a complete beginner you'll have go through other external tutorials and find it and learn itonline.
@@ -127,12 +130,7 @@ $touch hello-world.md
 <br>
 * Inside the folder with your name, make a file named hello-world.md and inside it add something about yourself using an editor.
 
-<img src="http://i.imgur.com/3wqFmnH.png"></img>
-```
-$nano yourusername-command_line.txt
-```
 <br>
-<img src="http://i.imgur.com/7zP57QQ.png"></img>
 <br>
 
 * Now that your file is ready to be online, you need to make git track your new files.
