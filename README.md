@@ -39,7 +39,9 @@ Some of the basic commands are:
 $cd directory_name
 ```
 will change the current working directory to directory_name
+<img src="http://i.imgur.com/7qvL5V8.png"></img>
 * ls (List Files): This command will list you all the files in the directory.
+<img src="http://i.imgur.com/e1G841o.png"></img>
 * cat [filename] (Print contents): This command will print out the contents of the file into the console. Usage eg:
 ```
 $cat filename.txt
