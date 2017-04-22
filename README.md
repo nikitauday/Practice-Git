@@ -42,13 +42,13 @@ Submitting a pull request is the process where you send the changes you've made 
 <br>
 <br>
 
-* Firstly, you should fork this repository to your account. Press the "Fork" button on top right of the page and select your account to fork this repository.
+### Step 1: Firstly, you should fork this repository to your account. Press the "Fork" button on top right of the page and select your account to fork this repository.
 <br>
-Forks are copies of a main repository which are available for individual users to edit according to their preferences.<br>
+<i>Forks are copies of a main repository which are available for individual users to edit according to their preferences.</i>
 <img src="http://i.imgur.com/Ayvkflu.png"/></img>
 <br>
-* Next, goto your profile and find the fork or the copy of the main repository.
-* Click the clone or download green icon on your fork.
+### Step 2: Next, goto your profile and find the fork or the copy of the main repository.
+Click the clone or download green icon on your fork.
 <br>
 <img src="http://i.imgur.com/ywyNYpp.png"></img>
 * Go to your terminal, where git is installed and paste `git clone https://github.com/<your_username>/Practice-Git`
