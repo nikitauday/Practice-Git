@@ -99,8 +99,7 @@ $nano file.txt
 
 ## Step 4
 In this step we will go further into the command line tools of git.
-
-Use your package manager to install git on your system. Some systems come with git pre-installed but update it to use the latest version of it.
+If you haven't already configured git, you can do it [here](https://help.github.com/articles/setting-your-username-in-git/)
 
 Use command:
 ```
@@ -110,7 +109,8 @@ to see a list of all commands and their descriptions.
 
 Codecademy has a really good tutorial on using the git command line.
 [Codecademy Git Tutorial](https://www.codecademy.com/learn/learn-git)
-git command line and linux command line
+git and linux command line
+
 ## Step 5
 
 Once you're familiar with command line tools, it is time to get hands on approach on that as well.
@@ -120,33 +120,36 @@ Use git command line tools to do something similar as to what you've done in ste
 ```
 git clone https://www.github.com/yourusername/yourrepo.git
 ```
-* Add another file in the users directory named "yourusername-command_line.txt"
+* Go into you fork folder using your command line and go into the submit-a-pull-request folder. Inside the folder make an another folder with you user name (hint : `mkdir <Your_username>`).
 ```
-$cd users
-$touch yourusername-command_line.txt
-```<img src="http://i.imgur.com/3wqFmnH.png"></img>
-* Edit it's contents to be "I made this with the command line."
+$cd submit-a-pull-request
+$touch hello-world.md
+```
+<br>
+* Inside the folder with your name, make a file named hello-world.md and inside it add something about yourself using an editor.
+
+<img src="http://i.imgur.com/3wqFmnH.png"></img>
 ```
 $nano yourusername-command_line.txt
-```<img src="http://i.imgur.com/7zP57QQ.png"></img>
-* Add upstream as remote to pull from it.
 ```
-$git remote add upstream https://www.github.com/fossmec/practice-sess.git
-```
-* Pull the contents to make sure your fork is up-to date.
-```
-$git pull upstream master
-```
-* If it is not, merge the upstream master to your master.
-```
-$git merge upstream/master
-```
-* Add, Commit and Push the contents to your fork.
+<br>
+<img src="http://i.imgur.com/7zP57QQ.png"></img>
+<br>
+
+* Now that your file is ready to be online, you need to make git track your new files.
+* First you have to add it to git.
+
 ```
 $git add .
-$git commit -m "Your commit message here"
+```
+* Now that's done, you have to save your file, which in git is known as commit. You can do it by.
+
+```
+$git commit -m "My First Commit."
+```
+* The you have to upload it to Github website. Do it by
+```
 $git push
 ```
-Note: when you are asked for username and password, type in your e-mail address rather than your github username.
-* Goto http://github.com/fossmec/practice-sess and submit a pull request for your fork.
-Note: If you are confused with head fork and base fork, remember that merges are done from head fork to base fork so be careful with your pull requests.
+* Now go to `https://github.com/<your_username>/Practice-Git`, where `<your_username>` is your github username.
+* Now click the option make a pull request.
