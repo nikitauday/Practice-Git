@@ -59,9 +59,9 @@ Submitting a pull request is the process where you send the changes you've made 
 ### Go into Practice-Git and go into `submit-a-pull-request` folder and make a folder with your own github username and inside make a file called `helloworld.md` and inside it add something about yourself and commit the file. More detailed instructions are given below
 <br><br>
 ## Step 3
-Next would be the turn to master the command line in Linux, because most of the time you would be accessing git and other programs through it.
+This step includes basic knowledge of the terminal. If you're already familiar with the terminal you can read through. If you're a complete beginner you'll have go through other external tutorials and find it and learn itonline.
 
-It is assumed that you have a working Linux installation, either a Virtual or a normal one. If you need help with Linux installation please contact any of the Core Members and we'll be happy to help you out.
+It is recommended that you have a working Linux installation. If you need help with Linux installation please contact any of the Core Members and we'll be happy to help you out.
 
  
 Some of the basic commands are:
