@@ -55,8 +55,14 @@ Submitting a pull request is the process where you send the changes you've made 
 <img src="http://i.imgur.com/ywyNYpp.png"></img>
 <br>
 
-#### * Step 3: Go to your terminal(You can search up how to access terminal in your system online.), where git is installed and paste 
+#### * Step 3: Go to your terminal(You can search up how to access terminal in your system online.), where git is installed.
+<br>
+Paste this onto the terminal. You are making the files available on you Computer.
+
+
 `git clone https://github.com/<your_username>/Practice-Git`
+
+
 <br>
 <img src="http://image.prntscr.com/image/8c27469b5f254f609307d4254d2be5bc.png">
 <br>
