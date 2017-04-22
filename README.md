@@ -1,14 +1,14 @@
-#GitHub Tutorial
+# GitHub Tutorial
 GitHub is a web-based version-control repository and Internet hosting service. It works on git and contains all it's version-control and code management facilities.
 
-##Step 1
+## Step 1
 First and foremost, each of you will need a github account. It is fairly easy to register and similar to most of the other sites it offers login using your Gmail or other Social Network ID's.<br>
 [Register Here](https://www.gihtub.com/join) <br>
 Before continuing with the rest of the tutorial it is highly recommended that you go through the hello world tutorial offered by GitHub.<br>
 [Hello World Tutorial](https://guides.github.com/activities/hello-world/)
 
 
-##Step 2
+## Step 2
 After you're done with hello world tutorial, it is time for some hands on approach to the workflow in GitHub. FOSS club has chosen a workflow known as Fork and Pull Request workflow.<br>
 In this type of workflow each user creates their own fork of the repository, makes changes and submits pull requests to be reviewed and merged by others.<br>
 Forks are copies of a main repository which are available for individual users to edit according to their preferences.<br>
@@ -22,7 +22,7 @@ In this exercise you will be creating a file with your username as an introducti
 * Go into the that folder and create a text file named "yourusername.txt"
 * Edit it to set the contents as "Hi it's me @yourusername"
 <br><br>
-##Step 3
+## Step 3
 Next would be the turn to master the command line in Linux, because most of the time you would be accessing git and other programs through it.
 
 It is assumed that you have a working Linux installation, either a Virtual or a normal one. If you need help with Linux installation please contact any of the Core Members and we'll be happy to help you out.
@@ -65,4 +65,3 @@ man command_name
 '''
 Press q to exit the man page.
  <br>
- 
