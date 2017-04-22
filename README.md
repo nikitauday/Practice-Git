@@ -1,5 +1,11 @@
-# GitHub Tutorial
-GitHub is a web-based version-control repository and Internet hosting service. It works on git and contains all it's version-control and code management facilities.
+# GitHub
+Andreessen Horowitz announced a whopping $100 million investment in GitHub this week. You can read commentary and speculation all over the web about what GitHub will do with the money, whether this was a good investment for Andreessen Horowitz and whether taking such a large investment is a good thing for GitHub.
+
+But what the heck is GitHub and why are developers so excited about it? You may have heard that GitHub is a code sharing and publishing service, or that it’s a social networking site for programmers. Both statements are true, but neither explain exactly why GitHub is special.
+
+At the heart of GitHub is Git, an open source project started by Linux creator Linus Torvalds. Matthew McCullough, a trainer at GitHub, explains that Git, like other version control systems, manages and stores revisions of projects. Although it’s mostly used for code, McCullough says Git could be used to manage any other type of file, such as Word documents or Final Cut projects. Think of it as a filing system for every draft of a document.
+
+## Welcome to the tutorial of getting started with Git.
 
 ## Step 1
 First and foremost, each of you will need a github account. It is fairly easy to register and similar to most of the other sites it offers login using your Gmail or other Social Network ID's.<br>
