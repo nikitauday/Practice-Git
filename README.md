@@ -59,7 +59,7 @@ $rmdir directory_name
 
 <br>
 <br>
-It is highly recommended that you check out the man pages(manual pages) of each of these commands to get a broader idea of their working. Man pages can be accessed by the following commands:
+It is highly recommended that you check out the man pages(manual pages) of each of these commands to get a broader idea of their working. Man pages can be accessed by the following commands.
 ```
 $man command_name
 ```
