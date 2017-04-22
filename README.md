@@ -21,23 +21,14 @@ Before continuing with the rest of the tutorial it is highly recommended that yo
 Before doing this step you have to install Git client in your system. 
 <br>
 <br>
-<a href="http://git-scm.com/download/mac" style="
-    color: #FFF;
-    font-size: 40px;
-    font-weight: normal;
-    font-style: normal;
-    background-color: #06406c;
-    padding: 10px 15px;
-    border-radius: 10px;
-    text-decoration: none;
-">Download git for OSX</a>
+<img src="http://image.prntscr.com/image/3db58348aece46f597293368e5a4bbd9.png" href="http://git-scm.com/download/mac">
 <br>
 <br>
-<a href="http://msysgit.github.io/">Download git for Windows</a>
+<img src="http://image.prntscr.com/image/eaafaf6722284064a1172c682ffb7466.png" href="http://msysgit.github.io/">
 <br>
 <br>
 For most Linux systems Git is already pre-installed, if its not,<br> 
-<a href="http://git-scm.com/book/en/Getting-Started-Installing-Git">Download git for Linux</a>
+<img src="http://image.prntscr.com/image/65ba4f31800e466082d05c3aaa89bd60.png" href="http://git-scm.com/book/en/Getting-Started-Installing-Git">
 <br>
 <br>
 ### Now time to get your hands dirty and get into Git. 
