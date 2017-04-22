@@ -55,21 +55,26 @@ Submitting a pull request is the process where you send the changes you've made 
 <img src="http://image.prntscr.com/image/8c27469b5f254f609307d4254d2be5bc.png">
 <br>
 </br>
-<img src="http://i.imgur.com/ywyNYpp.png"></img>
+
 ### Step 3: Go to your terminal(You can search up how to access terminal in your system online.), where git is installed and paste `git clone https://github.com/<your_username>/Practice-Git`
 <br>
+<img src="http://i.imgur.com/ywyNYpp.png"></img>
+<br>
+### Go into Practice-Git and go into `submit-a-pull-request` folder and make a folder with your own github username and inside make a file called `helloworld.md` and inside it add something about yourself and commit the file. More detailed instructions are given below
 <br>
 <img src="http://i.imgur.com/iIUdqEf.png"></img>
-### Go into Practice-Git and go into `submit-a-pull-request` folder and make a folder with your own github username and inside make a file called `helloworld.md` and inside it add something about yourself and commit the file. More detailed instructions are given below
-
-<br><br>
+<br>
 ## Step 3
 This step includes basic knowledge of the terminal. If you're already familiar with the terminal you can read through. If you're a complete beginner you'll have go through other external tutorials and find it and learn itonline.
 
-It is recommended that you have a working Linux installation. If you need help with Linux installation please contact any of the Core Members and we'll be happy to help you out.
+It is recommended that you have a working Linux installation. If you need help with Linux installation please contact any of the Core Members and we'll be happy to help you out. But to do this tutorial you don't have to have a Linux. A windows will do just fine. And if you get stuck, Google it or ask in any of the group in slack or whatsapp.
+
+[Beginner Command Line Tutorials](https://www.codecademy.com/learn/learn-the-command-line)
+
+[Beginner Command Line Tutorials](https://www.learnenough.com/command-line-tutorial)
 
  
-Some of the basic commands are:
+Some of the basic commands useful for doing this tutorial:
 * cd (Change Directory): This command is used to change the current working directory. For eg:
 ```
 $cd directory_name
@@ -81,22 +86,30 @@ $ls
 ```
 <img src="http://i.imgur.com/e1G841o.png"></img>
 <br>
+
 * mkdir(Make directory): A command to make a directory(folder) in the current working directory.
+
 ```
 $mkdir directory_name
 ```
 <br>
+
 * rmdir(Remove directory): Command to remove an empty directory.
+
 ```
 $rmdir directory_name
 ```
 <br>
+
 * touch (Create): Command to create a file. will create file.txt in current directory.
+
 ```
 $touch file.txt
 ```
 <br>
+
 * nano(Command line rext editor): Opens up nano, a text editor in the console to edit files. Creates a new file if the filename does not exist. Ctrl+O to save. Ctrl+X to exit.
+
 ```
 $nano file.txt
 ```
@@ -107,14 +120,15 @@ In this step we will go further into the command line tools of git.
 If you haven't already configured git, you can do it [here](https://help.github.com/articles/setting-your-username-in-git/)
 
 Use command:
+
 ```
 $git --help
 ```
 to see a list of all commands and their descriptions.
 
 Codecademy has a really good tutorial on using the git command line.
+
 [Codecademy Git Tutorial](https://www.codecademy.com/learn/learn-git)
-git and linux command line
 
 ## Step 5
 
@@ -125,16 +139,21 @@ Use git command line tools to do something similar as to what you've done in ste
 
 ```
 $cd submit-a-pull-request
-$touch hello-world.md
+$mkdir <your_username>
+$cd <your_username>
 ```
 <br>
+
 * Inside the folder with your name, make a file named hello-world.md and inside it add something about yourself using an editor.
+```
+$touch hello-world.md
+```
 
 <br>
 <br>
 
 * Now that your file is ready to be online, you need to make git track your new files.
-* First you have to add it to git.
+* First you have to add it to git, which is basically letting git know you have a new file.
 
 ```
 $git add .
@@ -148,5 +167,6 @@ $git commit -m "My First Commit."
 ```
 $git push
 ```
+* It will ask for your credentials for loggin in. 
 * Now go to `https://github.com/<your_username>/Practice-Git`, where `<your_username>` is your github username.
-* Now click the option make a pull request.
+* Now your in your copy of main file. To merge it with the main copy click the option make a pull request.
