@@ -69,48 +69,32 @@ Some of the basic commands are:
 ```
 $cd directory_name
 ```
-will change the current working directory to directory_name
 <img src="http://i.imgur.com/7qvL5V8.png"></img>
 * ls (List Files):This command will list you all the files in the directory.
+```
+$ls
+```
 <img src="http://i.imgur.com/e1G841o.png"></img>
-* cat [filename] (Print contents): This command will print out the contents of the file into the console. Usage eg:
-```
-$cat filename.txt
-```
-* cp(Copy) : This command let's you copy files from one location to another.
-```
-$cp /path/to/source_file /path/to/target_file
-```
+<br>
 * mkdir(Make directory): A command to make a directory(folder) in the current working directory.
 ```
 $mkdir directory_name
 ```
+<br>
 * rmdir(Remove directory): Command to remove an empty directory.
 ```
 $rmdir directory_name
 ```
-* touch (Create): Command to create a file.
+<br>
+* touch (Create): Command to create a file. will create file.txt in current directory.
 ```
 $touch file.txt
 ```
-will create file.txt in current directory.
+<br>
 * nano(Command line rext editor): Opens up nano, a text editor in the console to edit files. Creates a new file if the filename does not exist. Ctrl+O to save. Ctrl+X to exit.
 ```
 $nano file.txt
 ```
-Opens file.txt to edit. Creates file.txt if it does not exist.
-* vi/vim(Command line text editor): Opens vi/vim a very popular text editor that is a little bit hard for beginners to get in touch with. It is only recommended that you use it after you have become familiarized with it's commands and shortcuts.
-
-<br>
-It is highly recommended that you check out the man pages(manual pages) of each of these commands to get a broader idea of their working. Man pages can be accessed by the following commands.<br>
-
-```
-$man command_name
-```
-Press q to exit the man page.
-
- <br>
- The shell commands are not limited to these and further reading and learning is advised.
 <br>
 
 ## Step 4
