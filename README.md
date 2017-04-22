@@ -52,17 +52,18 @@ Submitting a pull request is the process where you send the changes you've made 
 <br>
 </br>
 <img src="http://i.imgur.com/ywyNYpp.png"></img>
-### Step 3: Go to your terminal, where git is installed and paste `git clone https://github.com/<your_username>/Practice-Git`
+### Step 3: Go to your terminal(You can search up how to access terminal in your system online.), where git is installed and paste `git clone https://github.com/<your_username>/Practice-Git`
+<br>
 <br>
 <img src="http://i.imgur.com/iIUdqEf.png"></img>
-go into Practice-Git and go into `submit-a-pull-request` folder and make a folder with your own github username and inside make a file called `helloworld.md` and inside it add something about yourself and commit the file. More detailed instructions are given below
+### Go into Practice-Git and go into `submit-a-pull-request` folder and make a folder with your own github username and inside make a file called `helloworld.md` and inside it add something about yourself and commit the file. More detailed instructions are given below
 <br><br>
 ## Step 3
 Next would be the turn to master the command line in Linux, because most of the time you would be accessing git and other programs through it.
 
 It is assumed that you have a working Linux installation, either a Virtual or a normal one. If you need help with Linux installation please contact any of the Core Members and we'll be happy to help you out.
 
-
+ 
 Some of the basic commands are:
 * cd (Change Directory): This command is used to change the current working directory. For eg:
 ```
@@ -70,17 +71,12 @@ $cd directory_name
 ```
 will change the current working directory to directory_name
 <img src="http://i.imgur.com/7qvL5V8.png"></img>
-* ls (List Files): This command will list you all the files in the directory.
+* ls (List Files):This command will list you all the files in the directory.
 <img src="http://i.imgur.com/e1G841o.png"></img>
 * cat [filename] (Print contents): This command will print out the contents of the file into the console. Usage eg:
 ```
 $cat filename.txt
 ```
-* grep (Search command): grep is a powerful search tool that lets you search for a specific string in a number of files at a time. Example:
-```
-$grep "search_string" test_file.txt
-```
-grep's reach goes way beyond this and it is suggested to learn more of this command if you plan to use command line tools to continue with your programming career.
 * cp(Copy) : This command let's you copy files from one location to another.
 ```
 $cp /path/to/source_file /path/to/target_file
