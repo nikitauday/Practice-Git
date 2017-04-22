@@ -79,6 +79,7 @@ Press q to exit the man page.
  <br>
  The shell commands are not limited to these and further reading and learning is advised.
 <br>
+
 ## Step 4
 In this step we will go further into the command line tools of git.
 
