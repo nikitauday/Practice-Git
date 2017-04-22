@@ -33,10 +33,7 @@ For most Linux systems Git is already pre-installed.
 <br>
 <br>
 ### Now time to get your hands dirty and get into Git. 
-<br> 
-If you're having trouble with the names and terms used in github, go [here](https://help.github.com/articles/github-glossary/) and read through the definitions.
-<br>
-
+If you're having trouble with the names and terms used in github, go and read through the definitions [here](https://help.github.com/articles/github-glossary/).
 Submitting a pull request is the process where you send the changes you've made to the main repository so that others can view, comment, edit or give suggestion to improve the code. A pull request is finally merged to the master(or main) by one of the owners of the repository.
 <br><br>
 In this exercise you will be creating a file with your username as an introduction to git.<br><br>
