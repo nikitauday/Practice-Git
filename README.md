@@ -76,10 +76,6 @@ $man command_name
 ```
 Press q to exit the man page.
 
-```
-$man command_name
-```
-Press q to exit the man page.
  <br>
  The shell commands are not limited to these and further reading and learning is advised.
 <br>
