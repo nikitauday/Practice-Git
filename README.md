@@ -40,6 +40,9 @@ $cd directory_name
 ```
 will change the current working directory to directory_name
 * ls (List Files): This command will list you all the files in the directory.
+
+ $ls
+
 * cat [filename] (Print contents): This command will print out the contents of the file into the console. Usage eg:
 ```
 $cat filename.txt
