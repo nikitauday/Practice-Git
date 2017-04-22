@@ -31,37 +31,37 @@ It is assumed that you have a working Linux installation, either a Virtual or a 
 Some of the basic commands are:
 * cd (Change Directory): This command is used to change the current working directory. For eg:
 ```
-cd directory_name
+$cd directory_name
 ```
 will change the current working directory to directory_name
 * ls (List Files): This command will list you all the files in the directory.
 * cat [filename] (Print contents): This command will print out the contents of the file into the console. Usage eg:
 ```
-cat filename.txt
+$cat filename.txt
 ```
 * grep (Search command): grep is a powerful search tool that lets you search for a specific string in a number of files at a time. Example:
 ```
-grep "search_string" test_file.txt
+$grep "search_string" test_file.txt
 ```
 grep's reach goes way beyond this and it is suggested to learn more of this command if you plan to use command line tools to continue with your programming career.
 * cp(Copy) : This command let's you copy files from one location to another.
 ```
-cp /path/to/source_file /path/to/target_file
+$cp /path/to/source_file /path/to/target_file
 ```
 * mkdir(Make directory): A command to make a directory(folder) in the current working directory.
 ```
-mkdir directory_name
+$mkdir directory_name
 ```
 * rmdir(Remove directory): Command to remove an empty directory.
 ```
-rmdir directory_name
+$rmdir directory_name
 ```
 
 <br>
 <br>
 It is highly recommended that you check out the man pages(manual pages) of each of these commands to get a broader idea of their working. Man pages can be accessed by the following commands:
 ```
-man command_name
+$man command_name
 ```
 Press q to exit the man page.
  <br>
