@@ -27,13 +27,13 @@ Before continuing with the rest of the tutorial it is highly recommended that yo
 Before doing this step you have to install Git client in your system. 
 <br>
 <br>
-<a href="http://git-scm.com/download/mac" target="_blank"><img src="http://image.prntscr.com/image/3db58348aece46f597293368e5a4bbd9.png"></a>
+<a href="http://git-scm.com/download/mac" target="_blank"><!--_--><img src="http://image.prntscr.com/image/3db58348aece46f597293368e5a4bbd9.png"></a>
 <br>
 <br>
-<a href="http://msysgit.github.io/" target="_blank"><img src="http://image.prntscr.com/image/eaafaf6722284064a1172c682ffb7466.png" t></a>
+<a href="http://msysgit.github.io/" target="_blank"><!--_--><img src="http://image.prntscr.com/image/eaafaf6722284064a1172c682ffb7466.png" t></a>
 <br>
 <br>
-<a href="http://git-scm.com/book/en/Getting-Started-Installing-Git" target="_blank"><img src="http://image.prntscr.com/image/65ba4f31800e466082d05c3aaa89bd60.png"></a>
+<a href="http://git-scm.com/book/en/Getting-Started-Installing-Git" target="_blank" ><!--_--><img src="http://image.prntscr.com/image/65ba4f31800e466082d05c3aaa89bd60.png"></a>
 <br>
 For most Linux systems Git is already pre-installed.
 <br>
@@ -43,19 +43,21 @@ If you're having trouble with the names and terms used in github, go and read th
 Submitting a pull request is the process where you send the changes you've made on your repository (your copy of this file.) to the main copy (Our version of the file) so that you can improve the code in whole and contribute. 
 <br>
 <br>
+<ul>
 
-#### * Step 1: Firstly, you should fork this repository to your account. Press the "Fork" button on top right of the page and select your account to fork this repository.
+<li><b> Step 1: Firstly, you should fork this repository to your account. Press the "Fork" button on top right of the page and select your account to fork this repository.</b>
+
 <br>
 <i>Forks are copies of a main repository which are available for individual users to edit according to their preferences.</i>
 <img src="http://i.imgur.com/Ayvkflu.png"/>
 <br>
 <br>
-####  * Step 2: Next, goto your profile and find the fork or the copy of the main repository and click the clone or download green icon on your fork.
+<li> <b>Step 2: Next, goto your profile and find the fork or the copy of the main repository and click the clone or download green icon on your fork.</b>
 <br>
 <img src="http://i.imgur.com/ywyNYpp.png"></img>
 <br>
 
-#### * Step 3: Go to your terminal(You can search up how to access terminal in your system online.), where git is installed.
+<li> <b>Step 3: Go to your terminal(You can search up how to access terminal in your system online.), where git is installed.</b>
 <br>
 Paste this onto the terminal. You are making the files available on you Computer.
 
@@ -66,7 +68,7 @@ Paste this onto the terminal. You are making the files available on you Computer
 <br>
 <img src="http://image.prntscr.com/image/8c27469b5f254f609307d4254d2be5bc.png">
 <br>
-#### * Step 4:  Go into Practice-Git and go into `submit-a-pull-request` folder and make a folder with your own github username and inside make a file called `helloworld.md` and inside it add something about yourself and commit the file. More detailed instructions are given below
+<li> <b>Step 4:  Go into Practice-Git and go into `submit-a-pull-request` folder and make a folder with your own github username and inside make a file called `helloworld.md` and inside it add something about yourself and commit the file. More detailed instructions are given below</b>
 <br>
 <img src="http://i.imgur.com/iIUdqEf.png"></img>
 <br>
