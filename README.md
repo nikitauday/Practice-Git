@@ -44,27 +44,29 @@ Submitting a pull request is the process where you send the changes you've made 
 <br>
 <br>
 
-### Step 1: Firstly, you should fork this repository to your account. Press the "Fork" button on top right of the page and select your account to fork this repository.
+#### * Step 1: Firstly, you should fork this repository to your account. Press the "Fork" button on top right of the page and select your account to fork this repository.
 <br>
 <i>Forks are copies of a main repository which are available for individual users to edit according to their preferences.</i>
 <img src="http://i.imgur.com/Ayvkflu.png"/>
 <br>
 <br>
-### Step 2: Next, goto your profile and find the fork or the copy of the main repository and click the clone or download green icon on your fork.
-<br>
-<img src="http://image.prntscr.com/image/8c27469b5f254f609307d4254d2be5bc.png">
-<br>
-</br>
-
-### Step 3: Go to your terminal(You can search up how to access terminal in your system online.), where git is installed and paste `git clone https://github.com/<your_username>/Practice-Git`
+#### * Step 2: Next, goto your profile and find the fork or the copy of the main repository and click the clone or download green icon on your fork.
 <br>
 <img src="http://i.imgur.com/ywyNYpp.png"></img>
 <br>
-### Go into Practice-Git and go into `submit-a-pull-request` folder and make a folder with your own github username and inside make a file called `helloworld.md` and inside it add something about yourself and commit the file. More detailed instructions are given below
+
+#### * Step 3: Go to your terminal(You can search up how to access terminal in your system online.), where git is installed and paste 
+`git clone https://github.com/<your_username>/Practice-Git`
+<br>
+<img src="http://image.prntscr.com/image/8c27469b5f254f609307d4254d2be5bc.png">
+<br>
+#### * Step 4:  Go into Practice-Git and go into `submit-a-pull-request` folder and make a folder with your own github username and inside make a file called `helloworld.md` and inside it add something about yourself and commit the file. More detailed instructions are given below
 <br>
 <img src="http://i.imgur.com/iIUdqEf.png"></img>
 <br>
+
 ## Step 3
+
 This step includes basic knowledge of the terminal. If you're already familiar with the terminal you can read through. If you're a complete beginner you'll have go through other external tutorials and find it and learn itonline.
 
 It is recommended that you have a working Linux installation. If you need help with Linux installation please contact any of the Core Members and we'll be happy to help you out. But to do this tutorial you don't have to have a Linux. A windows will do just fine. And if you get stuck, Google it or ask in any of the group in slack or whatsapp.
@@ -116,6 +118,7 @@ $nano file.txt
 <br>
 
 ## Step 4
+
 In this step we will go further into the command line tools of git.
 If you haven't already configured git, you can do it [here](https://help.github.com/articles/setting-your-username-in-git/)
 
