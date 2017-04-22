@@ -5,7 +5,7 @@ But what the heck is GitHub and why are developers so excited about it? You may 
 
 At the heart of GitHub is Git, an open source project started by Linux creator Linus Torvalds. Matthew McCullough, a trainer at GitHub, explains that Git, like other version control systems, manages and stores revisions of projects. Although it’s mostly used for code, McCullough says Git could be used to manage any other type of file, such as Word documents or Final Cut projects. Think of it as a filing system for every draft of a document. 
 
-This tutorial was actually made for highschool students to learn Git and Github. The actual tutorial is more difficult than this, you can find it [here](https://github.com/zulip/zulip-gci/blob/master/tasks/submit-a-pull-request.md). Over 200 students from all over the world completed this tutorial succesfully. This is a much easier version of that tutorial.
+This tutorial was actually made for highschool students to learn Git and Github. The actual tutorial is more difficult than this, you can find it [here](https://github.com/zulip/zulip-gci/blob/master/tasks/submit-a-pull-request.md). Over 200 students from all over the world completed this tutorial succesfully. This is a much easier version of that tutorial. If highschool students can do this task, you can too.
 
 After completing this task, you would be finally ready to contribute to Open Source, so take your time and go through slowly and ask for help wherever you get stuck.
 
@@ -153,6 +153,7 @@ $touch hello-world.md
 <br>
 
 * Now that your file is ready to be online, you need to make git track your new files.
+
 * First you have to add it to git, which is basically letting git know you have a new file.
 
 ```
@@ -167,6 +168,8 @@ $git commit -m "My First Commit."
 ```
 $git push
 ```
-* It will ask for your credentials for loggin in. 
-* Now go to `https://github.com/<your_username>/Practice-Git`, where `<your_username>` is your github username.
+* It will ask for your credentials for logging in.
+
+* Now after it uploads the new file, through the browser go to `https://github.com/<your_username>/Practice-Git`, where `<your_username>` is your github username.
+
 * Now your in your copy of main file. To merge it with the main copy click the option make a pull request.
