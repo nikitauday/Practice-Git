@@ -5,6 +5,8 @@ But what the heck is GitHub and why are developers so excited about it? You may 
 
 At the heart of GitHub is Git, an open source project started by Linux creator Linus Torvalds. Matthew McCullough, a trainer at GitHub, explains that Git, like other version control systems, manages and stores revisions of projects. Although it’s mostly used for code, McCullough says Git could be used to manage any other type of file, such as Word documents or Final Cut projects. Think of it as a filing system for every draft of a document. 
 
+This tutorial was actually made for highschool students to learn Git and Github. The actual tutorial is more difficult than this, you can find it [here](https://github.com/zulip/zulip-gci/blob/master/tasks/submit-a-pull-request.md). Over 200 students from all over the world completed this tutorial succesfully. This is a much easier version of that tutorial.
+
 After completing this task, you would be finally ready to contribute to Open Source, so take your time and go through slowly and ask for help wherever you get stuck.
 
 ### [Read this article on Git to get a better idea on what Git is.](https://opensource.com/resources/what-is-git)
@@ -114,13 +116,10 @@ git and linux command line
 ## Step 5
 
 Once you're familiar with command line tools, it is time to get hands on approach on that as well.
-Use git command line tools to do something similar as to what you've done in step 2.
+Use git command line tools to do something similar as to what you've done in step 2. Since you've already cloned the file onto your local system. A new folder will be visible called `Practice-Git`.
 
-* Clone your fork into a local directory. Hint:
-```
-git clone https://www.github.com/yourusername/yourrepo.git
-```
-* Go into you fork folder using your command line and go into the submit-a-pull-request folder. Inside the folder make an another folder with you user name (hint : `mkdir <Your_username>`).
+* Go into you fork folder on your system using your command line and go into the `submit-a-pull-request` folder. Inside the folder make an another folder with you user name (hint : `mkdir <Your_username>`).
+
 ```
 $cd submit-a-pull-request
 $touch hello-world.md
