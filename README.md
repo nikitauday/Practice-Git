@@ -50,7 +50,7 @@ Submitting a pull request is the process where you send the changes you've made 
 <img src="http://i.imgur.com/Ayvkflu.png"/>
 <br>
 <br>
-#### * Step 2: Next, goto your profile and find the fork or the copy of the main repository and click the clone or download green icon on your fork.
+####  * Step 2: Next, goto your profile and find the fork or the copy of the main repository and click the clone or download green icon on your fork.
 <br>
 <img src="http://i.imgur.com/ywyNYpp.png"></img>
 <br>
