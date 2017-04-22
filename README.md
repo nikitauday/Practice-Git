@@ -13,22 +13,28 @@ First and foremost, each of you will need a github account. It is fairly easy to
 [Register Here](https://www.github.com/join) <br><br>
 <img src="http://i.imgur.com/eeWND4m.png"></img>
 
-Before continuing with the rest of the tutorial it is highly recommended that you go through the hello world tutorial offered by GitHub.<br>
+Before continuing with the rest of the tutorial it is highly recommended that you go through the hello world tutorial offered by GitHub to get familiar with the github workflow.<br>
 [Hello World Tutorial](https://guides.github.com/activities/hello-world/)
 
 
 ## Step 2
-After you're done with hello world tutorial, it is time for some hands on approach to the workflow in GitHub. FOSS club has chosen a workflow known as Fork and Pull Request workflow.<br>
-In this type of workflow each user creates their own fork of the repository, makes changes and submits pull requests to be reviewed and merged by others.<br>
-Forks are copies of a main repository which are available for individual users to edit according to their preferences.<br>
+Before doing this step you have to install Git client in your system. 
+<a href="http://git-scm.com/download/mac">Download git for OSX</a>
+Now time to get your hands dirty and get into it. <br> 
+If you're having trouble with the names and terms used in github, go [here](https://help.github.com/articles/github-glossary/) and read through the definitions.<br>
+
 Submitting a pull request is the process where you send the changes you've made to the main repository so that others can view, comment, edit or give suggestion to improve the code. A pull request is finally merged to the master(or main) by one of the owners of the repository.
 <br><br>
 In this exercise you will be creating a file with your username as an introduction to git.<br><br>
 
 * Firstly, you should fork this repository to your account. Press the "Fork" button on top right of the page and select your account to fork this repository.
+<br>
+Forks are copies of a main repository which are available for individual users to edit according to their preferences.<br>
 <img src="http://i.imgur.com/Ayvkflu.png"/></img>
-* Next, goto your profile and find the fork.
+<br>
+* Next, goto your profile and find the fork or the copy of the main repository.
 * Click the clone or download green icon on your fork.
+<br>
 <img src="http://i.imgur.com/ywyNYpp.png"></img>
 * Go to your terminal, where git is installed and paste `git clone https://github.com/<your_username>/Practice-Git`
 <img src="http://i.imgur.com/iIUdqEf.png"></img>
