@@ -135,4 +135,4 @@ $git push
 ```
 Note: when you are asked for username and password, type in your e-mail address rather than your github username.
 * Goto http://github.com/fossmec/practice-sess and submit a pull request for your fork.
-Note: If you are confused with head fork and base fork, remember that merges are done from head fork to base fork so be careful of your push requests.
+Note: If you are confused with head fork and base fork, remember that merges are done from head fork to base fork so be careful with your pull requests.
