@@ -57,14 +57,14 @@ $mkdir directory_name
 $rmdir directory_name
 ```
 * touch (Create): Command to create a file.
-'''
+```
 $touch file.txt
-'''
+```
 will create file.txt in current directory.
 * nano(Command line rext editor): Opens up nano, a text editor in the console to edit files. Creates a new file if the filename does not exist. Ctrl+O to save. Ctrl+X to exit.
-'''
+```
 $nano file.txt
-'''
+```
 Opens file.txt to edit. Creates file.txt if it does not exist.
 * vi/vim(Command line text editor): Opens vi/vim a very popular text editor that is a little bit hard for beginners to get in touch with. It is only recommended that you use it after you have become familiarized with it's commands and shortcuts.
 <br>
@@ -89,9 +89,9 @@ In this step we will go further into the command line tools of git.
 Use your package manager to install git on your system. Some systems come with git pre-installed but update it to use the latest version of it.
 
 Use command:
-'''
+```
 $git --help
-'''
+```
 to see a list of all commands and their descriptions.
 
 Codecademy has a really good tutorial on using the git command line.
@@ -103,36 +103,36 @@ Once you're familiar with command line tools, it is time to get hands on approac
 Use git command line tools to do something similar as to what you've done in step 2.
 
 * Clone your fork into a local directory. Hint:
-'''
+```
 git clone https://www.github.com/yourusername/yourrepo.git
-'''
+```
 * Add another file in the users directory named "yourusername-command_line.txt"
-'''
+```
 $cd users
 $touch yourusername-command_line.txt
-'''
+```
 * Edit it's contents to be "I made this with the command line."
-'''
+```
 $nano yourusername-command_line.txt
-'''
+```
 * Add upstream as remote to pull from it.
-'''
+```
 $git remote add upstream https://www.github.com/fossmec/practice-sess.git
-'''
+```
 * Pull the contents to make sure your fork is up-to date.
-'''
+```
 $git pull upstream master
-'''
+```
 * If it is not, merge the upstream master to your master.
-'''
+```
 $git merge upstream/master
-'''
+```
 * Add, Commit and Push the contents to your fork.
-'''
+```
 $git add .
 $git commit -m "Your commit message here"
 $git push
-'''
+```
 Note: when you are asked for username and password, type in your e-mail address rather than your github username.
 * Goto http://github.com/fossmec/practice-sess and submit a pull request for your fork.
 Note: If you are confused with head fork and base fork, remember that merges are done from head fork to base fork so be careful of your push requests.
