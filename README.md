@@ -48,11 +48,11 @@ Submitting a pull request is the process where you send the changes you've made 
 <img src="http://i.imgur.com/Ayvkflu.png"/>
 <br>
 <br>
-Step 2: Next, goto your profile and find the fork or the copy of the main repository and click the clone or download green icon on your fork.
+### Step 2: Next, goto your profile and find the fork or the copy of the main repository and click the clone or download green icon on your fork.
 <br>
 </br>
 <img src="http://i.imgur.com/ywyNYpp.png"></img>
-Step 3: Go to your terminal, where git is installed and paste `git clone https://github.com/<your_username>/Practice-Git`
+### Step 3: Go to your terminal, where git is installed and paste `git clone https://github.com/<your_username>/Practice-Git`
 <br>
 <img src="http://i.imgur.com/iIUdqEf.png"></img>
 go into Practice-Git and go into `submit-a-pull-request` folder and make a folder with your own github username and inside make a file called `helloworld.md` and inside it add something about yourself and commit the file. More detailed instructions are given below
