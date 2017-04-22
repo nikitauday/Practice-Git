@@ -20,8 +20,18 @@ Before continuing with the rest of the tutorial it is highly recommended that yo
 ## Step 2
 Before doing this step you have to install Git client in your system. 
 <a href="http://git-scm.com/download/mac">Download git for OSX</a>
-Now time to get your hands dirty and get into it. <br> 
-If you're having trouble with the names and terms used in github, go [here](https://help.github.com/articles/github-glossary/) and read through the definitions.<br>
+<br>
+<br>
+<a href="http://msysgit.github.io/">Download git for Windows</a>
+<br>
+<br>
+For most Linux systems Git is already pre-installed, if its not,<br> 
+<a href="http://git-scm.com/book/en/Getting-Started-Installing-Git">Download git for Linux</a>
+<br>
+### Now time to get your hands dirty and get into Git. 
+<br> 
+If you're having trouble with the names and terms used in github, go [here](https://help.github.com/articles/github-glossary/) and read through the definitions.
+<br>
 
 Submitting a pull request is the process where you send the changes you've made to the main repository so that others can view, comment, edit or give suggestion to improve the code. A pull request is finally merged to the master(or main) by one of the owners of the repository.
 <br><br>
