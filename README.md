@@ -112,11 +112,11 @@ git clone https://www.github.com/yourusername/yourrepo.git
 ```
 $cd users
 $touch yourusername-command_line.txt
-```
+```<img src="http://i.imgur.com/3wqFmnH.png"></img>
 * Edit it's contents to be "I made this with the command line."
 ```
 $nano yourusername-command_line.txt
-```
+```<img src="http://i.imgur.com/7zP57QQ.png"></img>
 * Add upstream as remote to pull from it.
 ```
 $git remote add upstream https://www.github.com/fossmec/practice-sess.git
