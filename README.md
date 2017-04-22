@@ -67,7 +67,7 @@ $nano file.txt
 ```
 Opens file.txt to edit. Creates file.txt if it does not exist.
 * vi/vim(Command line text editor): Opens vi/vim a very popular text editor that is a little bit hard for beginners to get in touch with. It is only recommended that you use it after you have become familiarized with it's commands and shortcuts.
-<br>
+
 <br>
 It is highly recommended that you check out the man pages(manual pages) of each of these commands to get a broader idea of their working. Man pages can be accessed by the following commands.<br>
 
