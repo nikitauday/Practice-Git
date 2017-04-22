@@ -10,7 +10,7 @@ At the heart of GitHub is Git, an open source project started by Linux creator L
 ## Step 1
 First and foremost, each of you will need a github account. It is fairly easy to register and similar to most of the other sites it offers login using your Gmail or other Social Network ID's.<br>
 <br>
-[Register Here](https://www.github.com/join) <br>
+[Register Here](https://www.github.com/join) <br><br>
 <img src="http://i.imgur.com/eeWND4m.png"></img>
 
 Before continuing with the rest of the tutorial it is highly recommended that you go through the hello world tutorial offered by GitHub.<br>
