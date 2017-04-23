@@ -156,11 +156,15 @@ $mkdir <your_username>
 $cd <your_username>
 ```
 <br>
+<img src="http://i.imgur.com/keR8wxD.png"></img>
+<br>
 
 * Inside the folder with your name, make a file named hello-world.md and inside it add something about yourself using an editor.
 ```
 $touch hello-world.md
 ```
+<br>
+<img src="http://i.imgur.com/N2dJ5am.png"></img>
 <br>
 
 * Now that your file is ready to be online, you need to make git track your new files.
@@ -170,17 +174,25 @@ $touch hello-world.md
 ```
 $git add .
 ```
+<br>
+<img src="http://i.imgur.com/Z4LhVpo.png"></img>
+<br>
 * Now that's done, you have to save your file, which in git is known as commit. You can do it by.
 
 ```
 $git commit -m "My First Commit."
 ```
+<img src="http://i.imgur.com/Xre3XRA.png"></img>
 * The you have to upload it to Github website. Do it by
 ```
 $git push
 ```
 * It will ask for your credentials for logging in.
+<img src ="http://i.imgur.com/tdcpCPF.png"></img>
 
 * Now after it uploads the new file, through the browser go to `https://github.com/<your_username>/Practice-Git`, where `<your_username>` is your github username.
 
 * Now your in your copy of main file. To merge it with the main repository goto https://www.github.com/fossmec/practice-git and press the option "New Pull request". Set the head for as `<your-username>/practice-git` and base fork as `fossmec/practice-git`. Create a pull request and you're done!
+<img src ="http://i.imgur.com/MBAcznv.png"></img>
+
+<img src="http://i.imgur.com/zyrCRFQ.png"></img>
