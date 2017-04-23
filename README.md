@@ -57,7 +57,7 @@ Submitting a pull request is the process where you send the changes you've made 
 <img src="http://i.imgur.com/ywyNYpp.png"></img>
 <br>
 
-<li> <b>Step 3: Go to your terminal(You can search up how to access terminal in your system online.), where git is installed.</b>
+<li> <b>Step 3: Go to your terminal(You can search up how to access terminal in your system online.), change to a directory where you want to download your repository.</b>
 <br>
 Paste this onto the terminal. You are making the files available on you Computer.
 
