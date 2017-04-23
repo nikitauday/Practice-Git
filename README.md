@@ -161,8 +161,6 @@ $cd <your_username>
 ```
 $touch hello-world.md
 ```
-
-<br>
 <br>
 
 * Now that your file is ready to be online, you need to make git track your new files.
