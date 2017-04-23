@@ -146,6 +146,8 @@ Codecademy has a really good tutorial on using the git command line.
 Once you're familiar with command line tools, it is time to get hands on approach on that as well.
 Use git command line tools to do something similar as to what you've done in step 2. Since you've already cloned the file onto your local system. A new folder will be visible called `Practice-Git`.
 
+If you have any Questions or get stuck, check the `submit-a-pull-request` folder, in which 10 people have already completed the task. Follow their steps to complete the task.
+
 * Go into you fork folder on your system using your command line and go into the `submit-a-pull-request` folder. Inside the folder make an another folder with you user name (hint : `mkdir <Your_username>`).
 
 ```
