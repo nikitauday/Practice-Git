@@ -22,6 +22,8 @@ First and foremost, each of you will need a github account. It is fairly easy to
 Before continuing with the rest of the tutorial it is highly recommended that you go through the hello world tutorial offered by GitHub to get familiar with the github workflow.<br>
 [Hello World Tutorial](https://guides.github.com/activities/hello-world/)
 
+Or if you're intrested in trying out git from the terminal, try out this interactive tutorial<br>
+[Hello World Interactive Tutorial](https://try.github.io/levels/1/challenges/1)
 
 ## Step 2
 Before doing this step you have to install Git client in your system. 
